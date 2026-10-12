@@ -1,0 +1,8 @@
+{
+  "name": "waleed-malak",
+  "version": "1.0.0",
+  "description": "waleed-malak hello project",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
